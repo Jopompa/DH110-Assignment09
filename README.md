@@ -18,9 +18,24 @@ After conducting the heuristic evaluations I then conducted a pilot usability te
 After conducting the usability test I dove deeper into trying to understand the context of use that is created by users when on the website, so I conducted further user research to help explore the goals, problems, and contexts of the users. This allowed me to understand how certain design features are better than others for the targeted audience. Users are more satisfied with short descriptions and a simple aesthetic on the Fish and Game website. Having short descriptions or tabs of where further information can be found is a plus being that users without any knowledge of Alaska often navigate the web page. More information about the contextual inquiry can be found <a href="https://github.com/Jopompa/DH110-JovanyPompa/tree/main/assignment%2003"> here </a>
 ## UX Storytelling
 Developing two personas and scenarios was the next critical step in the process of completing my project. By creating these personas and scenarios I was able to get a deeper understanding of how and why users navigate through the website in the first place. The first user was a young outgoing girl named Brianna who enjoyed planning her next adventure but was restricted in time being that she is a full time worker and mom, efficiency was her main concern. Zinnia was an older lady who enjoyed the outdoors but was always the person to make sure that any out of the norm wildlife scene was reported to the authorities, quick accessibility was her main concern. More detailed personas, empathy maps and scenarios of both Brianna and Zinnia can be found <a href="https://github.com/Jopompa/Assignment-04/blob/main/README.md"> here </a>
+
 Brianna's Persona
 
+<img src="Persona 1.png" width="50%" length="50%">
 
-## 
+Zinnia's Persona
+
+<img src="Persona 2.png" width="50%" length="50%">
+
+## Low-Fidelity Prototype 
+Creating a low-fidelity prototype allowed me to visualize how the interface design would look and how the user would interact with the web page. With a user centric design in mind I created wireframe designs for two tasks, one being finding where and when to view black bears and the second being finding and filling out the Wildlife Encounter Report Form. Then, after the wireframes were complete I created a wireflow by connecting the wireframes using arrows. Allowing the test user to mentally go through the prototype. Unfortunately, after creating the wireflow on paper I realized that the prototype was too big to manage physically, this may have increased the cognitive load on the user which may have increased the efficiency and decreased the perceived accessibility of certain features on the webpage. An illustration of the wireframes and low-fidelity prototype can be found <a href="https://github.com/Jopompa/Assignment-05/blob/main/README.md"> here </a>
+
+### Graphic Design Element Variation
+After I created the low-fidelity prototype I then worked on creating multiple different design element variations for the department's web page. The design elements I worked on included the typography, shape and color variation of the website. To do this I digitized the wireframes I had manually illustrated on Figma. Then after creating multiple design element variations and deciding on a final interface design I conducted an impression test to test the look and feel of the website. A detailed analysis of this interface design process can be found <a href="https://github.com/Jopompa/Assignment-06/blob/main/README.md"> here </a> 
+
+## High-Fidelity Prototype 
+After testing and altering my low-fidelity prototype I then had to create a revised prototype that would demonstrate more polished design artifacts. This part of the project took a turn for me because after submitting my prototype with revised design elements, it was determined that the frame size of the prototype did not align properly with required elements. So, I changed the layout of the prototype to fit a mobile device as opposed a desktop screen. This made me re-evaluate many interface design elements such as the amount of content provided, button layout, and click command options. The revised high-fidelity prototype process can be found <a href="https://github.com/Jopompa/Assignment-07/blob/main/README.md"> here </a> 
+
+
 
 
